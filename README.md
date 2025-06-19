@@ -31,12 +31,16 @@ This project implements and compares multiple time-series forecasting models —
 
 1. **Clone the repository**
 
-      git clone https://github.com/harshitha923/StockPrediction
-   cd stock-price-forecasting
+Run:
+
+     git clone https://github.com/harshitha923/StockPrediction
+     cd stock-price-forecasting
 
 2. **Install dependencies**
 
-    pip install numpy pandas matplotlib statsmodels tensorflow prophet
+Run:
+
+      pip install numpy pandas matplotlib statsmodels tensorflow prophet
 3. **Data**
 
 yfinace python library is used for stock data. Use the following command to use it:
