@@ -27,25 +27,11 @@ This project implements and compares multiple time-series forecasting models —
 
 ---
 
-## 📁 Folder Structure
-
-stock-price-forecasting/
-│
-├── arima_model.py # ARIMA implementation
-├── lstm_model.py # LSTM implementation with TensorFlow
-├── prophet_model.py # Facebook Prophet implementation
-├── data/ # Historical stock price data (CSV format)
-│ └── stock_prices.csv
-├── results/ # Plots, forecasts, and evaluation metrics
-└── README.md # Project documentation
-
----
-
 ## ⚙️ How to Run
 
 1. **Clone the repository**
 
-      git clone https://github.com/yourusername/stock-price-forecasting.git
+      git clone https://github.com/harshitha923/StockPrediction
    cd stock-price-forecasting
 
 2. **Install dependencies**
