@@ -49,11 +49,11 @@ yfinace python library is used for stock data. Use the following command to use 
 
 4.**Run any model script**
 
-    python arima_model.py
-    python lstm_model.py
-    python prophet_model.py
+    python model_arima.py
+    python model_prophet.py
     
 5. **Sample Output**
+
 Plots of actual vs. predicted stock prices
 
 MAE and RMSE printed in terminal
